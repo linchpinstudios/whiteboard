@@ -1,0 +1,11 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "A leap motion whiteboard.",
+  "main": "index.js",
+  "author": "Josh Hagel <joshhagel@linchpinstudios.com>",
+  "license": "MIT",
+  "dependencies": {
+    "leapjs": "^0.6.4"
+  }
+}
